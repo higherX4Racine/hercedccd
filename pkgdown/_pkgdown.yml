@@ -1,0 +1,16 @@
+url: https://higherx4racine.github.io/hercedccd/
+
+template:
+  bootstrap: 5
+
+repo:
+  url:
+    home: https://github.com/higherX4Racine/hercedccd
+
+authors:
+  sidebar:
+    roles: [aut, cph]
+  footer:
+    roles: [cph]
+
+destination: pkgdown/docs/
