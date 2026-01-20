@@ -1,0 +1,12 @@
+# hercedccd
+
+The goal of hercedccd is to Fetch and wrangle data from the Department
+of Education’s Common Core of Data
+
+# Package index
+
+## All functions
+
+- [`GLOSSARY_OF_GRADES`](https://higherx4racine.github.io/hercedccd/reference/GLOSSARY_OF_GRADES.md)
+  : The Common Core of Data uses long names for student grade levels
+
